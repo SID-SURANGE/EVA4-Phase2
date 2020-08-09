@@ -1,3 +1,7 @@
+# Session2-Mobilenet and Shufflenets
+<hr>
+
+
 ## Explaination of the code:
 ```
 # Function to return the model
