@@ -38,4 +38,4 @@ The model is Mobilenet v2 for training.
 <img src='https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg' width="2000" height="1000">
 
 <hr>
-Group memberbers - Anup Gogoi, Pratik Jain, Siddharth Surange
+Group members - Anup Gogoi, Pratik Jain, Siddharth Surange
