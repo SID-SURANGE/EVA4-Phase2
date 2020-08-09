@@ -33,6 +33,7 @@ The image has been resized to 224 * 224. All the corrupt images has been removed
 The model is Mobilenet v2 for training.
 
 ## accuracy vs epochs graphs for train and test curves
+<img src='https://github.com/SID-SURANGE/EVA4-Phase2/blob/master/Session2-Mobilenets%20and%20Shufflenet/train-and-test-loss-curve.png' width="500" height="500">
 
 ## 10 misclassified images for each of the classes as an Image Gallery
 <img src='https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg' width="2000" height="1000">
