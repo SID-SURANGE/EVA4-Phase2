@@ -38,5 +38,12 @@ The model is Mobilenet v2 for training.
 ## 10 misclassified images for each of the classes as an Image Gallery
 <img src='https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg' width="2000" height="1000">
 
+## Winged drone image for prediction
+<img src=https://github.com/SID-SURANGE/EVA4-Phase2/blob/master/Session2-Mobilenets%20and%20Shufflenet/wdrone.jpg>
+
+## Insomnia output for input winged drone image
+
+<img src = https://github.com/SID-SURANGE/EVA4-Phase2/blob/master/Session2-Mobilenets%20and%20Shufflenet/Wdrone-result.JPG></img>
+
 <hr>
 Group members - Anup Gogoi, Pratik Jain, Siddharth Surange
